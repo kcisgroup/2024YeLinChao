@@ -1,0 +1,3 @@
+./neo4j-admin import --database=akn --nodes=import/word.csv --nodes=import/word_nolabels.csv
+--relationships=import/relationship_nolabels.csv --relationships=import/relationship_ass1_no.csv --relationships=import/relationship_ass2_no.csv --relationships=import/relationship_ass3_no.csv --relationships=import/relationship_ass4_no.csv
+--relationships=import/relationship_ass1.csv --relationships=import/relationship_ass2.csv --relationships=import/relationship_ass3.csv --relationships=import/relationship_ass4.csv --relationships=import/probability.csv

@@ -1,0 +1,39 @@
+<s> Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+[MASK]属水，咸入[MASK]，[MASK]属火而主[MASK]，咸主[MASK]即以水胜火之意
+
+### Response:
+肾属水，咸入肾，心属火而主血，咸主血即以水胜火之意
+</s>
+
+Instruction: [MASK]，即指药物具有寒、热、温、凉四种不同的药性
+<s> Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+[MASK]，即指药物具有寒、热、温、凉四种不同的药性
+s
+### Response:
+四气，即指药物具有寒、热、温、凉四种不同的药性
+</s>
+
+Instruction: 肾和水的关系
+<s> Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+肾和水的关系
+
+### Response:
+ 肾和水的关系</s>
+
+
+ Instruction: 描述肾的概念
+<s>Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+描述肾的概念
+
+### Response:
+肾是五脏所长，肾主纳气，肾藏精，肾主骨，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨之余，肾主骨
+
+

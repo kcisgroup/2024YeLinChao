@@ -1,0 +1,4 @@
+NCCL_P2P_DISABLE=1  WORLD_SIZE=2 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 --master_port=1234 finetune.py --base_model 'shibing624/chinese-alpaca-plus-7b-hf' --data_path 'llama_data_TCM.json' --output_dir './lora-alpaca-TCM' --prompt_template_name 'med_template'
+
+
+NCCL_P2P_DISABLE=1  WORLD_SIZE=2 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 --master_port=1234 fine-tune.py --base_model 'shibing624/chinese-alpaca-plus-7b-hf' --data_path 'llama_data_TCM_withinput.json' --output_dir './lora-alpaca-TCM' --prompt_template_name 'med_template'

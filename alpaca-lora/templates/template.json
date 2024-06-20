@@ -1,0 +1,6 @@
+{
+    "description": "Template used by Med Instruction Tuning",
+    "prompt_input": "将[MASK]替换成医学上的专业名词.\n### 问题:\n{instruction}\nn### 回答:\n",
+    "prompt_no_input": "将[MASK]替换成医学上的专业名词.\n### 问题:\n{instruction}\n### 回答:\n",
+    "response_split": "### 回答:"
+}
